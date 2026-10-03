@@ -12,4 +12,6 @@ int main(){
 
     c = a^b;//bitwise exor
     printf("a^b = %d\n", c);
+
+    return 0;
 }
